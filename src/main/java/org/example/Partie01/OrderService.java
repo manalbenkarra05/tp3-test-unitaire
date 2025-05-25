@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Partie01;
 
 public class OrderService {
     private final OrderDao orderDao;

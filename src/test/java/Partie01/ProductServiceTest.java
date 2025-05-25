@@ -1,4 +1,9 @@
+package Partie01;
+
 import org.example.*;
+import org.example.Partie01.Product;
+import org.example.Partie01.ProductApiClient;
+import org.example.Partie01.ProductService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

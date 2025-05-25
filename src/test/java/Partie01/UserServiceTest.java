@@ -1,3 +1,8 @@
+package Partie01;
+
+import org.example.Partie01.User;
+import org.example.Partie01.UserRepository;
+import org.example.Partie01.UserService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.example.*;
